@@ -3,7 +3,7 @@
 **Description**
 
 The idea for this game is you are a roadie cleaning up after a metal show just ended. Your buddies and co-workers got a bit ahead on the after party, 
-so are having some trouble holding the bins still. Toss everything in to pack up the gear safely. Miss and break something, and the band will
+so are having some trouble holding the truck still. Toss everything in to pack up the gear safely. Miss and break something, and the band will
 not be happy with you.
 
 ## Game layout
